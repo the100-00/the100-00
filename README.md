@@ -1,7 +1,7 @@
 <div align="center">
   
 # Introduce me 👽
-▪ 동덕여자대학교 (2018.03 ~ ) <br>
+▪ 동덕여자대학교 컴퓨터학과 (2018.03 ~ ) <br>
 ▪ Fun.D 프로젝트 용기낸 식당 프론트엔드 개발 (2021.03 ~ 2021.07) <br>
 ▪ 디지털도민 대응감시단 (2021.03 ~ 2021. 11) <br>
 ▪ Angelostate University Computer Science 교환학생 (2022.01 ~ 2022.05) <br>
